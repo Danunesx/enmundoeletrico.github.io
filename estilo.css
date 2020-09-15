@@ -188,7 +188,7 @@ section {
 #boxflag {
     width: 110px;
     height: 60px;
-    transform: translateY(-5%);
+    transform: translateY(-4.5%);
 }
 .containerleft {
     float: left;
