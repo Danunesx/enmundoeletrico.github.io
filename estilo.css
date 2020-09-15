@@ -178,6 +178,9 @@ section {
     padding: 20px;
     float: left;
 }
+#deepl {
+    color: #0061b1;
+}
 #flag {
     transform: translateY(35%);
     width: 35%;
