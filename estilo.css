@@ -181,6 +181,7 @@ section {
 #deepl {
     font-style: italic;
     font-weight: bold;
+    color: #006eff;
 }
 #flag {
     transform: translateY(35%);
